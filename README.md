@@ -20,6 +20,10 @@ These are the button events as captured with `ev test` on Ubuntu 25.04 on Septem
 - **EV_REL**: Relative movement events like mouse wheel (type 2)
 - **EV_MSC**: Miscellaneous events including scan codes (type 4)
 
+## Use As PTZ Controller:
+
+![alt text](asptz.png)
+
 ### Notes
 
 - Each key press generates both press (value 1) and release (value 0) events
