@@ -4,6 +4,9 @@
 
 The K811 is a hot-swappable mechanical keyboard sold [on Aliexpress](https://www.aliexpress.com/item/1005009262197889.html). As it has a joystick and a thumbwheel, it is ideal as a simple but effective PTZ controller (camera shortcuts can be mapped onto keys or side buttons). 
 
+**Driver Download**: [K811 Driver (ZIP)](http://www.mkespnhk.com/upload/20250623104030.zip)  
+**User Manual**: [K811 User Manual (PDF)](user-manual.pdf)
+
 These are the button events as captured with `ev test` on Ubuntu 25.04 on September 7, 2025. 
 
 
