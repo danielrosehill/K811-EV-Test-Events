@@ -1,0 +1,27 @@
+Testing ... (interrupt to exit)
+Event: time 1757249519.607528, type 2 (EV_REL), code 8 (REL_WHEEL), value 1
+Event: time 1757249519.607528, type 2 (EV_REL), code 11 (REL_WHEEL_HI_RES), value 120
+Event: time 1757249519.607528, -------------- SYN_REPORT ------------
+Event: time 1757249519.730500, type 2 (EV_REL), code 8 (REL_WHEEL), value 1
+Event: time 1757249519.730500, type 2 (EV_REL), code 11 (REL_WHEEL_HI_RES), value 120
+Event: time 1757249519.730500, -------------- SYN_REPORT ------------
+Event: time 1757249519.758493, type 2 (EV_REL), code 8 (REL_WHEEL), value 1
+Event: time 1757249519.758493, type 2 (EV_REL), code 11 (REL_WHEEL_HI_RES), value 120
+Event: time 1757249519.758493, -------------- SYN_REPORT ------------
+Event: time 1757249519.809492, type 2 (EV_REL), code 8 (REL_WHEEL), value 1
+Event: time 1757249519.809492, type 2 (EV_REL), code 11 (REL_WHEEL_HI_RES), value 120
+Event: time 1757249519.809492, -------------- SYN_REPORT ------------
+Event: time 1757249519.868490, type 2 (EV_REL), code 8 (REL_WHEEL), value 1
+Event: time 1757249519.868490, type 2 (EV_REL), code 11 (REL_WHEEL_HI_RES), value 120
+Event: time 1757249519.868490, -------------- SYN_REPORT ------------
+Event: time 1757249520.223529, type 2 (EV_REL), code 8 (REL_WHEEL), value -1
+Event: time 1757249520.223529, type 2 (EV_REL), code 11 (REL_WHEEL_HI_RES), value -120
+Event: time 1757249520.223529, -------------- SYN_REPORT ------------
+Event: time 1757249520.263492, type 2 (EV_REL), code 8 (REL_WHEEL), value -1
+Event: time 1757249520.263492, type 2 (EV_REL), code 11 (REL_WHEEL_HI_RES), value -120
+Event: time 1757249520.263492, -------------- SYN_REPORT ------------
+Event: time 1757249520.306491, type 2 (EV_REL), code 8 (REL_WHEEL), value -1
+Event: time 1757249520.306491, type 2 (EV_REL), code 11 (REL_WHEEL_HI_RES), value -120
+Event: time 1757249520.306491, -------------- SYN_REPORT ------------
+^C
+daniel@ipcampi1:~$ 

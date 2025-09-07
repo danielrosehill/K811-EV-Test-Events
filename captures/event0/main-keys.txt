@@ -1,0 +1,115 @@
+Event: time 1757249366.578801, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70029
+Event: time 1757249366.578801, type 1 (EV_KEY), code 1 (KEY_ESC), value 1
+Event: time 1757249366.578801, -------------- SYN_REPORT ------------
+Event: time 1757249366.655789, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70029
+Event: time 1757249366.655789, type 1 (EV_KEY), code 1 (KEY_ESC), value 0
+Event: time 1757249366.655789, -------------- SYN_REPORT ------------
+Event: time 1757249367.408778, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7001a
+Event: time 1757249367.408778, type 1 (EV_KEY), code 17 (KEY_W), value 1
+Event: time 1757249367.408778, -------------- SYN_REPORT ------------
+Event: time 1757249367.485768, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7001a
+Event: time 1757249367.485768, type 1 (EV_KEY), code 17 (KEY_W), value 0
+Event: time 1757249367.485768, -------------- SYN_REPORT ------------
+Event: time 1757249367.905769, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70008
+Event: time 1757249367.905769, type 1 (EV_KEY), code 18 (KEY_E), value 1
+Event: time 1757249367.905769, -------------- SYN_REPORT ------------
+Event: time 1757249367.990772, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70008
+Event: time 1757249367.990772, type 1 (EV_KEY), code 18 (KEY_E), value 0
+Event: time 1757249367.990772, -------------- SYN_REPORT ------------
+Event: time 1757249368.379764, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70015
+Event: time 1757249368.379764, type 1 (EV_KEY), code 19 (KEY_R), value 1
+Event: time 1757249368.379764, -------------- SYN_REPORT ------------
+Event: time 1757249368.459765, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70015
+Event: time 1757249368.459765, type 1 (EV_KEY), code 19 (KEY_R), value 0
+Event: time 1757249368.459765, -------------- SYN_REPORT ------------
+Event: time 1757249368.820766, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70017
+Event: time 1757249368.820766, type 1 (EV_KEY), code 20 (KEY_T), value 1
+Event: time 1757249368.820766, -------------- SYN_REPORT ------------
+Event: time 1757249368.901767, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70017
+Event: time 1757249368.901767, type 1 (EV_KEY), code 20 (KEY_T), value 0
+Event: time 1757249368.901767, -------------- SYN_REPORT ------------
+Event: time 1757249369.301763, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7004c
+Event: time 1757249369.301763, type 1 (EV_KEY), code 111 (KEY_DELETE), value 1
+Event: time 1757249369.301763, -------------- SYN_REPORT ------------
+Event: time 1757249369.377761, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7004c
+Event: time 1757249369.377761, type 1 (EV_KEY), code 111 (KEY_DELETE), value 0
+Event: time 1757249369.377761, -------------- SYN_REPORT ------------
+Event: time 1757249370.356792, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7002b
+Event: time 1757249370.356792, type 1 (EV_KEY), code 15 (KEY_TAB), value 1
+Event: time 1757249370.356792, -------------- SYN_REPORT ------------
+Event: time 1757249370.429771, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7002b
+Event: time 1757249370.429771, type 1 (EV_KEY), code 15 (KEY_TAB), value 0
+Event: time 1757249370.429771, -------------- SYN_REPORT ------------
+Event: time 1757249370.897765, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70004
+Event: time 1757249370.897765, type 1 (EV_KEY), code 30 (KEY_A), value 1
+Event: time 1757249370.897765, -------------- SYN_REPORT ------------
+Event: time 1757249370.975760, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70004
+Event: time 1757249370.975760, type 1 (EV_KEY), code 30 (KEY_A), value 0
+Event: time 1757249370.975760, -------------- SYN_REPORT ------------
+Event: time 1757249371.456765, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70016
+Event: time 1757249371.456765, type 1 (EV_KEY), code 31 (KEY_S), value 1
+Event: time 1757249371.456765, -------------- SYN_REPORT ------------
+Event: time 1757249371.549764, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70016
+Event: time 1757249371.549764, type 1 (EV_KEY), code 31 (KEY_S), value 0
+Event: time 1757249371.549764, -------------- SYN_REPORT ------------
+Event: time 1757249371.956759, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70007
+Event: time 1757249371.956759, type 1 (EV_KEY), code 32 (KEY_D), value 1
+Event: time 1757249371.956759, -------------- SYN_REPORT ------------
+Event: time 1757249372.041757, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70007
+Event: time 1757249372.041757, type 1 (EV_KEY), code 32 (KEY_D), value 0
+Event: time 1757249372.041757, -------------- SYN_REPORT ------------
+Event: time 1757249373.663771, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70028
+Event: time 1757249373.663771, type 1 (EV_KEY), code 28 (KEY_ENTER), value 1
+Event: time 1757249373.663771, -------------- SYN_REPORT ------------
+Event: time 1757249373.739774, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70028
+Event: time 1757249373.739774, type 1 (EV_KEY), code 28 (KEY_ENTER), value 0
+Event: time 1757249373.739774, -------------- SYN_REPORT ------------
+Event: time 1757249374.646765, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e1
+Event: time 1757249374.646765, type 1 (EV_KEY), code 42 (KEY_LEFTSHIFT), value 1
+Event: time 1757249374.646765, -------------- SYN_REPORT ------------
+Event: time 1757249374.726781, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e1
+Event: time 1757249374.726781, type 1 (EV_KEY), code 42 (KEY_LEFTSHIFT), value 0
+Event: time 1757249374.726781, -------------- SYN_REPORT ------------
+Event: time 1757249375.264768, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7001d
+Event: time 1757249375.264768, type 1 (EV_KEY), code 44 (KEY_Z), value 1
+Event: time 1757249375.264768, -------------- SYN_REPORT ------------
+Event: time 1757249375.348747, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7001d
+Event: time 1757249375.348747, type 1 (EV_KEY), code 44 (KEY_Z), value 0
+Event: time 1757249375.348747, -------------- SYN_REPORT ------------
+Event: time 1757249375.915767, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7001b
+Event: time 1757249375.915767, type 1 (EV_KEY), code 45 (KEY_X), value 1
+Event: time 1757249375.915767, -------------- SYN_REPORT ------------
+Event: time 1757249375.991756, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7001b
+Event: time 1757249375.991756, type 1 (EV_KEY), code 45 (KEY_X), value 0
+Event: time 1757249375.991756, -------------- SYN_REPORT ------------
+Event: time 1757249376.477749, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70006
+Event: time 1757249376.477749, type 1 (EV_KEY), code 46 (KEY_C), value 1
+Event: time 1757249376.477749, -------------- SYN_REPORT ------------
+Event: time 1757249376.559748, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70006
+Event: time 1757249376.559748, type 1 (EV_KEY), code 46 (KEY_C), value 0
+Event: time 1757249376.559748, -------------- SYN_REPORT ------------
+Event: time 1757249377.420764, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e0
+Event: time 1757249377.420764, type 1 (EV_KEY), code 29 (KEY_LEFTCTRL), value 1
+Event: time 1757249377.420764, -------------- SYN_REPORT ------------
+Event: time 1757249377.507781, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e0
+Event: time 1757249377.507781, type 1 (EV_KEY), code 29 (KEY_LEFTCTRL), value 0
+Event: time 1757249377.507781, -------------- SYN_REPORT ------------
+Event: time 1757249378.023778, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e2
+Event: time 1757249378.023778, type 1 (EV_KEY), code 56 (KEY_LEFTALT), value 1
+Event: time 1757249378.023778, -------------- SYN_REPORT ------------
+Event: time 1757249378.113782, type 4 (EV_MSC), code 4 (MSC_SCAN), value 700e2
+Event: time 1757249378.113782, type 1 (EV_KEY), code 56 (KEY_LEFTALT), value 0
+Event: time 1757249378.113782, -------------- SYN_REPORT ------------
+Event: time 1757249378.545777, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7002c
+Event: time 1757249378.545777, type 1 (EV_KEY), code 57 (KEY_SPACE), value 1
+Event: time 1757249378.545777, -------------- SYN_REPORT ------------
+Event: time 1757249378.637763, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7002c
+Event: time 1757249378.637763, type 1 (EV_KEY), code 57 (KEY_SPACE), value 0
+Event: time 1757249378.637763, -------------- SYN_REPORT ------------
+Event: time 1757249379.242755, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70063
+Event: time 1757249379.242755, type 1 (EV_KEY), code 83 (KEY_KPDOT), value 1
+Event: time 1757249379.242755, -------------- SYN_REPORT ------------
+Event: time 1757249379.332747, type 4 (EV_MSC), code 4 (MSC_SCAN), value 70063
+Event: time 1757249379.332747, type 1 (EV_KEY), code 83 (KEY_KPDOT), value 0
+Event: time 1757249379.332747, -------------- SYN_REPORT ------------
+

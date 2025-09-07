@@ -1,0 +1,45 @@
+Testing ... (interrupt to exit)
+Event: time 1757249453.979653, type 4 (EV_MSC), code 4 (MSC_SCAN), value c00e9
+Event: time 1757249453.979653, type 1 (EV_KEY), code 115 (KEY_VOLUMEUP), value 1
+Event: time 1757249453.979653, -------------- SYN_REPORT ------------
+Event: time 1757249453.981655, type 4 (EV_MSC), code 4 (MSC_SCAN), value c00e9
+Event: time 1757249453.981655, type 1 (EV_KEY), code 115 (KEY_VOLUMEUP), value 0
+Event: time 1757249453.981655, -------------- SYN_REPORT ------------
+Event: time 1757249454.100667, type 4 (EV_MSC), code 4 (MSC_SCAN), value c00e9
+Event: time 1757249454.100667, type 1 (EV_KEY), code 115 (KEY_VOLUMEUP), value 1
+Event: time 1757249454.100667, -------------- SYN_REPORT ------------
+Event: time 1757249454.102642, type 4 (EV_MSC), code 4 (MSC_SCAN), value c00e9
+Event: time 1757249454.102642, type 1 (EV_KEY), code 115 (KEY_VOLUMEUP), value 0
+Event: time 1757249454.102642, -------------- SYN_REPORT ------------
+Event: time 1757249454.754625, type 4 (EV_MSC), code 4 (MSC_SCAN), value c00ea
+Event: time 1757249454.754625, type 1 (EV_KEY), code 114 (KEY_VOLUMEDOWN), value 1
+Event: time 1757249454.754625, -------------- SYN_REPORT ------------
+Event: time 1757249454.755618, type 4 (EV_MSC), code 4 (MSC_SCAN), value c00ea
+Event: time 1757249454.755618, type 1 (EV_KEY), code 114 (KEY_VOLUMEDOWN), value 0
+Event: time 1757249454.755618, -------------- SYN_REPORT ------------
+Event: time 1757249454.865624, type 4 (EV_MSC), code 4 (MSC_SCAN), value c00ea
+Event: time 1757249454.865624, type 1 (EV_KEY), code 114 (KEY_VOLUMEDOWN), value 1
+Event: time 1757249454.865624, -------------- SYN_REPORT ------------
+Event: time 1757249454.866612, type 4 (EV_MSC), code 4 (MSC_SCAN), value c00ea
+Event: time 1757249454.866612, type 1 (EV_KEY), code 114 (KEY_VOLUMEDOWN), value 0
+Event: time 1757249454.866612, -------------- SYN_REPORT ------------
+Event: time 1757249455.654628, type 4 (EV_MSC), code 4 (MSC_SCAN), value c00b6
+Event: time 1757249455.654628, type 1 (EV_KEY), code 165 (KEY_PREVIOUSSONG), value 1
+Event: time 1757249455.654628, -------------- SYN_REPORT ------------
+Event: time 1757249455.807602, type 4 (EV_MSC), code 4 (MSC_SCAN), value c00b6
+Event: time 1757249455.807602, type 1 (EV_KEY), code 165 (KEY_PREVIOUSSONG), value 0
+Event: time 1757249455.807602, -------------- SYN_REPORT ------------
+Event: time 1757249456.228640, type 4 (EV_MSC), code 4 (MSC_SCAN), value c00b5
+Event: time 1757249456.228640, type 1 (EV_KEY), code 163 (KEY_NEXTSONG), value 1
+Event: time 1757249456.228640, -------------- SYN_REPORT ------------
+Event: time 1757249456.375625, type 4 (EV_MSC), code 4 (MSC_SCAN), value c00b5
+Event: time 1757249456.375625, type 1 (EV_KEY), code 163 (KEY_NEXTSONG), value 0
+Event: time 1757249456.375625, -------------- SYN_REPORT ------------
+Event: time 1757249456.706633, type 4 (EV_MSC), code 4 (MSC_SCAN), value c00cd
+Event: time 1757249456.706633, type 1 (EV_KEY), code 164 (KEY_PLAYPAUSE), value 1
+Event: time 1757249456.706633, -------------- SYN_REPORT ------------
+Event: time 1757249456.845624, type 4 (EV_MSC), code 4 (MSC_SCAN), value c00cd
+Event: time 1757249456.845624, type 1 (EV_KEY), code 164 (KEY_PLAYPAUSE), value 0
+Event: time 1757249456.845624, -------------- SYN_REPORT ------------
+^C
+daniel@ipcampi1:~$ 
